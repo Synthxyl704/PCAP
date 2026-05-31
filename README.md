@@ -1,5 +1,5 @@
-# Cache + NUMA // Process Affinity Mapper
-> Pin processes to CPU cache domains on x86-64 linux operating systems, aided with NUMA awareness.
+# PCAP // Process ID (PID) Cache Affinity Pinner
+> Pin processes (PID) to CPU cache domains on x86-64 linux operating systems, has NUMA awareness.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ed9071bf-bcbd-41fb-88bc-db138f564d8b" />
 <br>
